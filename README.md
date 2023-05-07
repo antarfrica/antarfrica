@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### AI enthusiast, especially in NLP and generative models, 
+### currently working on text to speech projects (TTS). 
+### I like japanese music and video games.
